@@ -1,10 +1,3 @@
-- 👋 Olá eu sou o Igor Santos!!
-- 👀 Eu estou interessado em aprender continuamente sobre tecnologias!!
-- 🌱 Atualmente estou estudando programação para ser mais exato, estou aprendendo a programar em Java, projetos para WEB na busca de virar um Full-Stack
-- 📫 Como você pode me achar: 
-    linkedin: https://www.linkedin.com/in/igor-santos-11182912a/
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Igor Santos&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-<!---
-igor315/igor315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Igor+Santos+Oliveira;I'm+26+years+old;I+from+Brazil,+DF;I+study+systems+analytics+development+at+JK+GAMA+DF;Be+Welcome!+:%29)](https://git.io/typing-svg)
