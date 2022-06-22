@@ -28,7 +28,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
  
 ### Tools:
-![Eclipse](https://img.shields.io/badge/-Eclipse%20Studio-0D1117?style=for-the-badge&logo=Eclipse&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-0D1117?style=for-the-badge&logo=Eclipse&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
